@@ -10,7 +10,7 @@ Installation Files:
 
 *[Microsoft Visual C++ 2008 Redistributable] (http://www.microsoft.com/en-us/download/details.aspx?id=29)
 
-IMPORTANT: The "GameContents" folder must be in the same directory as the program.
+**IMPORTANT**: The "GameContents" folder must be in the same directory as the program.
 
 
 
