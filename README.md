@@ -6,9 +6,9 @@ Thank you for your interest in Game Structure. As the name may suggest, this fra
 
 Installation Files:
 --------------
-*[August 2007 DirectX 9.0c SDK] (http://www.microsoft.com/en-us/download/details.aspx?id=13287)
+* [August 2007 DirectX 9.0c SDK] (http://www.microsoft.com/en-us/download/details.aspx?id=13287)
 
-*[Microsoft Visual C++ 2008 Redistributable] (http://www.microsoft.com/en-us/download/details.aspx?id=29)
+*  (http://www.microsoft.com/en-us/download/details.aspx?id=29)
 
 **IMPORTANT**: The "GameContents" folder must be in the same directory as the program.
 
