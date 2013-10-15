@@ -2,7 +2,7 @@ Game Structure
 ===================
 **Version: 0.4.1**
 
-Thank you for your interest in Game Structure. As the name may suggest, this framework allows one to easily create their game concept, building off of a predefined game structure. This allows game design to flow smoothly, even for beginning programmers. Using this framework also helps beginning programmers learn C++, a very popular and powerful programming language. The game provided is an example of what can be done through the framework.
+Thank you for your interest in Game Structure. As the name may suggest, this framework allows one to easily create their game concept, building off of a predefined game structure. This allows game design to flow smoothly, even for beginning programmers. Using this framework also helps beginning programmers learn C++, a very popular and powerful programming language. The game provided is an example of what can be done through implimenting this framework.
 
 Installation Files:
 --------------
