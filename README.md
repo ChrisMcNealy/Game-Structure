@@ -8,7 +8,9 @@ Installation Files:
 --------------
 * [August 2007 DirectX 9.0c SDK] (http://www.microsoft.com/en-us/download/details.aspx?id=13287)
 
-*  (http://www.microsoft.com/en-us/download/details.aspx?id=29)
+* [Microsoft Visual C++ 2008 Redistributable] (http://www.microsoft.com/en-us/download/details.aspx?id=29)
+
+* [Dark GDK] (http://go.microsoft.com/?linkid=7708310)
 
 **IMPORTANT**: The "GameContents" folder must be in the same directory as the program.
 
