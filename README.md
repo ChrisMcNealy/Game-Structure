@@ -2,7 +2,7 @@ Game Structure
 ===================
 **Version: 0.4.1**
 
-Thank you for your interest in my Game Structure program. As the name may suggest, this program allows one to easily create their game concept, building off of a predefined game structure. This allows game design to flow smoothly, even for beginning programmers. Using this structure also helps beginning programmers learn C++, a very popular and powerful programming language. The game provided is an example of what can be done by using this program.
+Thank you for your interest in Game Structure. As the name may suggest, this framework allows one to easily create their game concept, building off of a predefined game structure. This allows game design to flow smoothly, even for beginning programmers. Using this framework also helps beginning programmers learn C++, a very popular and powerful programming language. The game provided is an example of what can be done through the framework.
 
 Installation Files:
 --------------
@@ -21,7 +21,7 @@ How to Use
 
 1.  void DarkGDK ()
 
-	This is the most important function in the program. Almost everything that occurs in the game, uses this function. The commented sections inside allow the programmer to view their mouse's coordinates on the screen. This can be crucial when needing to know where to place objects.
+	This is the most important function in the entire program. Almost everything that occurs in the game, uses this function. The commented sections inside allow the programmer to view their mouse's coordinates on the screen. This can be crucial when needing to know where to place objects.
 
 2. void movePersonOrWorld (int &, int &, int &)
 
